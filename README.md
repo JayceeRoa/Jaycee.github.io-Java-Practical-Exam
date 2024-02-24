@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="x-icon" href="Galilee.ico.png">
+	<title>Galilee</title>
+	<style>
+        h2{
+		border:3px solid black;
+		border-radius: 20px;
+	}
+	p {
+		text-align: center-justify;
+		font-size: 17px;
+	}
+	body {
+		background-size: cover;
+		background-position:center;
+		background-attachment: fixed;
+		margin-left: 80px;
+		margin-right: 80px;
+		margin-top:	20px;
+		margin-bottom: 5px;
+		background-color: white;	
+	}
+    </style>
+</head>
+<body background="Galilee.jpg" style=background-repeat:no-repeat;>
+
+    <main>
+		<center><h1>GALILEE ACADEMY</h1>
+        <section class="vision">
+            <center><h2 style="background-color:Blue">・Vision・</h2>
+            <p><b>To be an institution that raises citizens ready to face future strengthened through education, under the guidance of God Almighty.</p>
+        </section>
+
+        <section class="mission">
+            <center><h2 style="background-color:Red">・Mission・</h2>
+            <p><b>Provide student with top-notch education and skills training combined with spiritual, moral, and personal development.</p>
+        </section>
+
+        <section class="goals">
+            <center><h2 style="background-color:green">・Goals・</h2>
+            <p><b>To WIN the youth's heart and minds, CONSULIDATE them through guidance and education, help them to be DISCIPLES of God, and SEND them<br> leaders who would create positive change in the world.</p>
+        </section>
+
+        <section class="objective">
+            <center><h2 style="background-color:yellow">・Objectives・</h2>
+            <p><b>
+• To provide relevant, up-to-date, affordable education to all students<br> in order to prepare them for their chosen career.</p>
+<p><b>• To work with the Department of education in the successful<br> implementaion of goals of the K12 program.</p>
+<p><b>• To work in partnership with establishments in providing students<br> with real-world application of skills and knowledge.</p>
+<p><b>• Employ and train competent teachers to provide students with the best guidance and instruction<br> in developing their skills and increasing their knowledge.</p>
+        </section>
+    </main>
+</body>
+</html>
